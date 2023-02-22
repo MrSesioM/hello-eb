@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: hello-eb-dev
+    environment: hello-eb-dev2
 environment-defaults:
-  hello-eb-dev:
+  hello-eb-dev2:
     branch: null
     repository: null
 global:
@@ -15,5 +15,5 @@ global:
   platform_name: null
   platform_version: null
   profile: null
-  sc: null
+  sc: git
   workspace_type: Application
